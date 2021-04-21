@@ -18,7 +18,7 @@ public class java1 {
         System.out.println("Input a number you are thinking: ");
         num1 = inputScanner.nextDouble();
         System.out.println("the number you input is "+num1);
-        System.exit(0);
+        //System.exit(0);
     }
 
 }
