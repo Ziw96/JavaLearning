@@ -8,6 +8,7 @@ public class arrayTest2 {
             for (int j=0;j<ids[i].length;j++){
                 System.out.print(ids[i][j]+"\t");
             }
+        //separate each unit of array by \n
         System.out.println();
         }
     }
